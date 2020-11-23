@@ -1,5 +1,6 @@
 # python-api-challenge
 #WEATHERPY
+
 #Generate a city list
 #.
 #Perform API Calls
@@ -16,6 +17,7 @@
 #.
 #
 #VACATIONPY
+
 #Store Part I results into DataFrame
 #Load the csv exported in Part I to a DataFrame
 #.
